@@ -4,4 +4,6 @@
 - chapter_5 : Object Literals
 - chapter_6 : The Document Object Model
 - chapter_7 : Forms and Forms Events
+- chapter_8 : Array Methods
+
 
