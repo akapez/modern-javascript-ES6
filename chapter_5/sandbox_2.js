@@ -23,4 +23,5 @@ let user = {
   },
 }
 
+user.login();
 user.fruitsName()

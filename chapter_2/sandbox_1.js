@@ -13,7 +13,7 @@ let fullName = firstName + ' ' + lastName;
 console.log(fullName);
 
 //Getting single character
-console.log(fullName[2]);
+console.log(fullName[3]);
 
 //String length
 console.log(fullName.length);

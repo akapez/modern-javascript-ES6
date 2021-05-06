@@ -9,6 +9,7 @@ let user = {
 
 console.log(user);
 console.log(user.email);
+console.log(user['name']);
 
 user.age = 30;
 console.log(user.age);

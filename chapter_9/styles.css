@@ -1,0 +1,17 @@
+body{
+    background: #333;
+}
+
+.clock{
+    font-size: 4rem;
+    text-align: center;
+    margin: 200px auto;
+    color: yellow;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.clock span{
+    padding: 20px;
+    background: #444;
+}

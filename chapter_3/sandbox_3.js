@@ -1,8 +1,8 @@
 // do while loops
 
-let i = 2
+let i = 0
 
 do {
-  console.log('val of i is:', i)
+  console.log('val of i is:', i);
   i++
-} while (i < 5)
+} while (i < 5);

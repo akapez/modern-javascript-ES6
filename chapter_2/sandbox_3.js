@@ -5,9 +5,9 @@ const pi = 3.14;
 
 // console.log(radius, pi);
 
-let result = radius % 4;
+// let result = radius % 4;
 let result  = pi * radius**2;
-// console.log(result);
+console.log(result);
 
 
 let likes = 10;
