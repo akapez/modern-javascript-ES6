@@ -6,6 +6,4 @@
 - chapter_7 : Forms and Forms Events
 - chapter_8 : Array Methods
 - chapter_9 : Date and Times
-
-
-
+- chapter_10 : Async JavaScript
