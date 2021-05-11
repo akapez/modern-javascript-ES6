@@ -8,3 +8,5 @@
 - chapter_9 : Date and Times
 - chapter_10 : Async JavaScript
 - chapter_11 : Local Storage
+- chapter_12 : OOP JavaScript
+
