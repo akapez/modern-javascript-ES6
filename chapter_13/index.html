@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    <title>Database</title>
+</head>
+
+<body>
+    <div class="container my-5">
+        <h2>Recipes</h2>
+        <ul>
+        
+        </ul>
+        <form>
+          <label for="recipe">Add a new recipe:</label>
+          <div class="input-group">
+            <input type="text" class="form-control" id="recipe" required>
+            <div class="input-group-append">
+              <input type="submit" value="add" class="btn btn-outline-secondary">
+            </div>
+          </div>
+        </form>
+      </div>
+
+
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+    <script src="https://www.gstatic.com/firebasejs/8.5.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.5.0/firebase-firestore.js"></script>
+
+    <!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+
+    <script>
+        // Your web app's Firebase configuration
+        var firebaseConfig = {
+            apiKey: "AIzaSyAnD9yvu32AvEDeUHEUFGleTpX-AKALS58",
+            authDomain: "modern-javascript-001.firebaseapp.com",
+            projectId: "modern-javascript-001",
+            storageBucket: "modern-javascript-001.appspot.com",
+            messagingSenderId: "656119704246",
+            appId: "1:656119704246:web:73793e324fc6cc20849417"
+        };
+        // Initialize Firebase
+        firebase.initializeApp(firebaseConfig);
+        const db = firebase.firestore(); 
+    </script>
+    <script src="sandbox_1.js"></script>
+</body>
+
+</html>
