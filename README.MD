@@ -10,5 +10,7 @@
 - chapter_11 : Local Storage
 - chapter_12 : OOP JavaScript
 - chapter_13 : (Firebase) Database
+- chapter_13 : More ES6 Features
+
 
 
