@@ -10,14 +10,14 @@
 - chapter_11 : Local Storage
 - chapter_12 : OOP JavaScript
 - chapter_13 : (Firebase) Database
-- chapter_14 : More ES6 Features
-- chapter_15 : Babel & Webpack
+- chapter_13 : More ES6 Features
+- chapter_14 : Babel & Webpack
 
-- Projects
-# ninja_quize
-# real-time-chatroom
-# todo-list
-# weather-app
+# Projects
+- ninja_quize
+- real-time-chatroom
+- todo-list
+- weather-app
 
 
 
